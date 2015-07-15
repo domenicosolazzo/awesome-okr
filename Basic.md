@@ -1,7 +1,19 @@
 # OKR
 Objective - Key Results (**OKR**) are used to tell the direction of a business and how to get there.
+OKRs are made up of a high level objective, a more detailed description of why that objective is important, a summary of how the objective aligns with the broader goals of both the person’s team and the company, and the three to five key results that will help them achieve that goal.
 
 From the mission & vision, you can derive your Objectives and the Todos are the things you do to achieve your Key Results.
+
+They should be **public**.
+
+### Objectives
+- Ambitious
+- Uncomfortable
+- Qualitative
+
+### Key Resutls
+- Measurable: They should be easy to grade
+- Quantitative
 
 ## Rules
 1. Set them annually and quartely
@@ -27,6 +39,7 @@ From the mission & vision, you can derive your Objectives and the Todos are the 
    - Grade your OKRs at the beginning of the next quarter
    - If you constantly score a 1, your OKRs were not challenging enough. 
    - You should score a .7 or .8
+   - Lower grades should not be punished.
 
 
 ## Examples
