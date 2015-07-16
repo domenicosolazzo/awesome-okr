@@ -24,5 +24,5 @@ Practicing Objective - Key Results
 - [How to Make OKRs Actually Work at Your Startup](http://firstround.com/review/How-to-Make-OKRs-Actually-Work-at-Your-Startup/)
 
 # Quora
-- [We are starting to implement OKRs in our company for the first time. Do any of you have experience in terms of problems or issues encountered?](http://www.quora.com/We-are-starting-to-implement-OKRs-in-our-company-for-the-first-time-Do-any-of-you-have-experience-in-terms-of-problems-or-issues-encountered) - Quora
+- [We are starting to implement OKRs in our company for the first time. Do any of you have experience in terms of problems or issues encountered?](http://www.quora.com/We-are-starting-to-implement-OKRs-in-our-company-for-the-first-time-Do-any-of-you-have-experience-in-terms-of-problems-or-issues-encountered)
 - [What's a use case where a company uses both OKR and KPI?](http://www.quora.com/Whats-a-use-case-where-a-company-uses-both-OKR-and-KPI)
