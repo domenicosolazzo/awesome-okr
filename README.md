@@ -8,7 +8,7 @@ Practicing Objective - Key Results
 - [OKR: A guide](http://www.slideshare.net/mustansir78/guide-to-okr-objectives-key-results)
 - [The Basics of OKR](http://www.slideshare.net/HenrikJanVanderPol/how-to-outperform-anyone-else-introduction-to-okr)
 - [Organizing and engineering Team on Asana](http://www.slideshare.net/asana/organizing-an-engineering-team-using-asana)
-- 
+
 # Videos
 - List [here](https://github.com/domenicosolazzo/practice-okr/Videos.md)
 
