@@ -10,7 +10,7 @@ Practicing Objective - Key Results
 - [Organizing and engineering Team on Asana](http://www.slideshare.net/asana/organizing-an-engineering-team-using-asana)
 
 # Videos
-- List [here](https://github.com/domenicosolazzo/practice-okr/Videos.md)
+- List [here](https://github.com/domenicosolazzo/practice-okr/blob/master/Videos.md)
 
 # Articles
 - [John Doerr on success using OKR](http://blog.betterworks.com/keys-okr-success-qa-john-doerr/)
