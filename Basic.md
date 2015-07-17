@@ -14,6 +14,12 @@ They should be **public**.
 ### Key Resutls
 - Measurable: They should be easy to grade
 - Quantitative
+- They can be based on:
+   - Growth
+   - Engagement
+   - Revenue
+   - Performance
+   - Quality
 
 ## Rules
 1. Set them annually and quartely
