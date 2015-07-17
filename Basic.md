@@ -40,6 +40,15 @@ They should be **public**.
    - If you constantly score a 1, your OKRs were not challenging enough. 
    - You should score a .7 or .8
    - Lower grades should not be punished.
+  
+# Common Mistakes
+- You set too many OKRs per quarter
+- You set OKRs for a week or a month
+- You set a metric-driven Objective: The Objective needs to be inspirational, a call-to-action for all the people in the company
+- Your Key Results are tasks, not results
+- You don’t set confidence levels
+- You use the four-square as a status, not as a conversation
+- You Make OKRs part of the performance review
 
 
 ## Examples
