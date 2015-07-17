@@ -22,6 +22,7 @@ Practicing Objective - Key Results
 - [Are You a C.E.O. of Something?](http://www.nytimes.com/2010/01/31/business/31corner.html?pagewanted=2&_r=4&)
 - [How to set & achieve meaningful OKRs](http://blog.kentonkivestu.com/goals-how-to-get-things-done)
 - [How to Make OKRs Actually Work at Your Startup](http://firstround.com/review/How-to-Make-OKRs-Actually-Work-at-Your-Startup/)
+- [OKR Mistakes](http://eleganthack.com/okr-mistakes-and-how-to-fix-them/)
 
 # Quora
 - [We are starting to implement OKRs in our company for the first time. Do any of you have experience in terms of problems or issues encountered?](http://www.quora.com/We-are-starting-to-implement-OKRs-in-our-company-for-the-first-time-Do-any-of-you-have-experience-in-terms-of-problems-or-issues-encountered)
