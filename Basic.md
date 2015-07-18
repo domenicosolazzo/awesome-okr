@@ -6,6 +6,11 @@ From the mission & vision, you can derive your Objectives and the Todos are the 
 
 They should be **public**.
 
+### Infographic
+![Weekdone Infographic](https://blog.weekdone.com/wp-content/uploads/2014/07/OKR-infographic.png)
+[Credits - Weekdone](https://blog.weekdone.com/introduction-okr-objectives-key-results/?utm_source=resources.weekdone.com&utm_campaign=resources)
+
+
 ### Objectives
 - Ambitious
 - Uncomfortable
