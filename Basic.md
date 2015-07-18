@@ -55,6 +55,8 @@ They should be **public**.
 - You don’t set confidence levels
 - You use the four-square as a status, not as a conversation
 - You Make OKRs part of the performance review
+    - There is the risk for sandbagging
+       - Why would you gamble your livelihood on bold goals when you can set goals you can actually meet.
 
 
 ## Examples
