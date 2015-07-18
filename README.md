@@ -5,6 +5,7 @@ Practicing Objective - Key Results
 - [Basic of OKR](https://github.com/domenicosolazzo/practice-okr/Basic.md)
 - [Worksheet OKR template](https://github.com/domenicosolazzo/practice-okr/blob/master/Worksheet.md)
 - [Use a weekly status email](https://github.com/domenicosolazzo/practice-okr/blob/master/Weekly_Status_Email)
+- [How to set OKRs](https://github.com/domenicosolazzo/practice-okr/blob/master/How_to_set_OKRs.md)
 
 # Slides
 - [OKR: A guide](http://www.slideshare.net/mustansir78/guide-to-okr-objectives-key-results)
