@@ -8,6 +8,7 @@ They should be **public**.
 
 ### Infographic
 ![Weekdone Infographic](https://blog.weekdone.com/wp-content/uploads/2014/07/OKR-infographic.png)
+
 [Credits - Weekdone](https://blog.weekdone.com/introduction-okr-objectives-key-results/?utm_source=resources.weekdone.com&utm_campaign=resources)
 
 
@@ -16,7 +17,7 @@ They should be **public**.
 - Uncomfortable
 - Qualitative
 
-### Key Resutls
+### Key Results
 - Measurable: They should be easy to grade
 - Quantitative
 - They can be based on:
