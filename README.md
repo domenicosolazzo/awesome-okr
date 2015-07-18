@@ -4,6 +4,7 @@ Practicing Objective - Key Results
 # Basics
 - [Basic of OKR](https://github.com/domenicosolazzo/practice-okr/Basic.md)
 - [Worksheet OKR template](https://github.com/domenicosolazzo/practice-okr/blob/master/Worksheet.md)
+- [Use a weekly status email](https://github.com/domenicosolazzo/practice-okr/blob/master/Weekly_Status_Email)
 
 # Slides
 - [OKR: A guide](http://www.slideshare.net/mustansir78/guide-to-okr-objectives-key-results)
@@ -41,5 +42,6 @@ Practicing Objective - Key Results
 - [Kapta](http://www.producthunt.com/tech/kapta)
 - [SmartProgress](http://www.producthunt.com/tech/smart-progress)
 - [Strides](http://www.producthunt.com/tech/strides)
+- [Workboard](http://www.producthunt.com/tech/workboard)
 
 From this [PH Colletion](http://www.producthunt.com/@domenicosolazzo/collections/okr)
