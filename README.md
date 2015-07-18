@@ -1,8 +1,9 @@
 # Practice OKR
 Practicing Objective - Key Results
 
-# TOC
+# Basics
 - [Basic of OKR](https://github.com/domenicosolazzo/practice-okr/Basic.md)
+- [Worksheet OKR template](https://github.com/domenicosolazzo/practice-okr/blob/master/Worksheet.md)
 
 # Slides
 - [OKR: A guide](http://www.slideshare.net/mustansir78/guide-to-okr-objectives-key-results)
