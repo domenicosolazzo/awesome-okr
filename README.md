@@ -30,3 +30,15 @@ Practicing Objective - Key Results
 # Quora
 - [We are starting to implement OKRs in our company for the first time. Do any of you have experience in terms of problems or issues encountered?](http://www.quora.com/We-are-starting-to-implement-OKRs-in-our-company-for-the-first-time-Do-any-of-you-have-experience-in-terms-of-problems-or-issues-encountered)
 - [What's a use case where a company uses both OKR and KPI?](http://www.quora.com/Whats-a-use-case-where-a-company-uses-both-OKR-and-KPI)
+
+# Software
+- [Weekdone](http://www.producthunt.com/tech/weekdone)
+- [TalentCove](http://www.producthunt.com/tech/cove)
+- [7Geese](http://www.producthunt.com/tech/7geese)
+- [BetterWorks](http://www.producthunt.com/tech/betterworks)
+- [StatusPath](http://www.producthunt.com/tech/statuspath)
+- [Kapta](http://www.producthunt.com/tech/kapta)
+- [SmartProgress](http://www.producthunt.com/tech/smart-progress)
+- [Strides](http://www.producthunt.com/tech/strides)
+
+From this [PH Colletion](http://www.producthunt.com/@domenicosolazzo/collections/okr)
