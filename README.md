@@ -7,6 +7,7 @@ Practicing Objective - Key Results
 - [Use a weekly status email](https://github.com/domenicosolazzo/practice-okr/blob/master/Weekly_Status_Email)
 - [How to set OKRs](https://github.com/domenicosolazzo/practice-okr/blob/master/How_to_set_OKRs.md)
 - [Monday's and Friday's: The commitment square](https://github.com/domenicosolazzo/practice-okr/blob/master/Commitment-Square.md)
+- [Fundamentals of OKR](https://medium.com/startup-tools/okrs-5afdc298bc28)
 
 # Slides
 - [OKR: A guide](http://www.slideshare.net/mustansir78/guide-to-okr-objectives-key-results)
