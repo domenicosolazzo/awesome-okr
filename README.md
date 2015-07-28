@@ -35,6 +35,15 @@ Practicing Objective - Key Results
 - [We are starting to implement OKRs in our company for the first time. Do any of you have experience in terms of problems or issues encountered?](http://www.quora.com/We-are-starting-to-implement-OKRs-in-our-company-for-the-first-time-Do-any-of-you-have-experience-in-terms-of-problems-or-issues-encountered)
 - [What's a use case where a company uses both OKR and KPI?](http://www.quora.com/Whats-a-use-case-where-a-company-uses-both-OKR-and-KPI)
 
+# Templates
+### Word
+- [OKR report document example by WeekDone](https://weekdone.com/resources/templates/okr-report-document-example)
+- [OKR report document template by WeekDone](https://weekdone.com/resources/templates/okr-report-document-template)
+- [Startup OKRs Template](https://docs.google.com/document/d/1OHpQOvZz76_10ebJP2AKvvXUF3H9yd6FC89F5jS4mks/edit?pli=1)
+### Excel
+- [OKR report spreadsheet template by WeekDone](https://weekdone.com/resources/templates/okr-report-spreadsheet-template)
+- [OKR report spreadsheet example by WeekDone](https://weekdone.com/resources/templates/okr-report-spreadsheet-example)
+
 # Software
 - [Weekdone](http://www.producthunt.com/tech/weekdone)
 - [TalentCove](http://www.producthunt.com/tech/cove)
