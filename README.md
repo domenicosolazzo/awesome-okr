@@ -33,7 +33,6 @@ Practicing Objective - Key Results
 - [ORK Worksheet](http://eleganthack.com/an-okr-worksheet/)
 - [Better at a Glance OKR](https://blog.weekdone.com/better-at-a-glance-okr-overview/)
 - [List of companies that use OKRs](https://www.atiim.com/blog/top-companies-that-use-okrs/)
-- 
 
 # Quora
 - [We are starting to implement OKRs in our company for the first time. Do any of you have experience in terms of problems or issues encountered?](http://www.quora.com/We-are-starting-to-implement-OKRs-in-our-company-for-the-first-time-Do-any-of-you-have-experience-in-terms-of-problems-or-issues-encountered)
