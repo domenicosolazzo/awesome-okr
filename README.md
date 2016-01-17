@@ -67,16 +67,21 @@ A curated list of resources about OKRs
 # Checklists
 - [The Smart Way to Set OKR](https://www.atiim.com/download-okr-checklist/)
 
+# Research
+[The Determinants of Goal Commitment](http://amr.aom.org/content/13/1/23.abstract)
+[Goal Setting and Task Performance: 1969-1980](http://datause.cse.ucla.edu/docs/eal_goa_1981.pdf)
 
 # Templates
 ### Word
 - [OKR report document example by WeekDone](https://weekdone.com/resources/templates/okr-report-document-example)
 - [OKR report document template by WeekDone](https://weekdone.com/resources/templates/okr-report-document-template)
 - [Startup OKRs Template](https://docs.google.com/document/d/1OHpQOvZz76_10ebJP2AKvvXUF3H9yd6FC89F5jS4mks/edit?pli=1)
+- [OKR Scorecard by Google](https://docs.google.com/document/d/1iK7oQ7d96isVEzUfvQYLIUZ8WU4vkSGgtOM-J7nFd7k/edit)
 
 ### Excel
 - [OKR report spreadsheet template by WeekDone](https://weekdone.com/resources/templates/okr-report-spreadsheet-template)
 - [OKR report spreadsheet example by WeekDone](https://weekdone.com/resources/templates/okr-report-spreadsheet-example)
+- [OKR Scorecard by Google](https://docs.google.com/spreadsheets/d/1KyKt6yAwu0NCM1f55JSjpOBpr5YjhIL4E_vYN0VWuEg/edit#gid=761446612)
 
 # Software
 - [Weekdone](http://www.producthunt.com/tech/weekdone)
