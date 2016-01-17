@@ -68,8 +68,8 @@ A curated list of resources about OKRs
 - [The Smart Way to Set OKR](https://www.atiim.com/download-okr-checklist/)
 
 # Research
-[The Determinants of Goal Commitment](http://amr.aom.org/content/13/1/23.abstract)
-[Goal Setting and Task Performance: 1969-1980](http://datause.cse.ucla.edu/docs/eal_goa_1981.pdf)
+- [The Determinants of Goal Commitment](http://amr.aom.org/content/13/1/23.abstract)
+- [Goal Setting and Task Performance: 1969-1980](http://datause.cse.ucla.edu/docs/eal_goa_1981.pdf)
 
 # Templates
 ### Word
