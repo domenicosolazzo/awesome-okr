@@ -15,6 +15,9 @@ Practicing Objective - Key Results
 - [Organizing and engineering Team on Asana](http://www.slideshare.net/asana/organizing-an-engineering-team-using-asana)
 - [Execturioner's tale](http://www.slideshare.net/cwodtke/the-executioners-tale-34241002)
 - [How to implement OKRs to drive company performance](http://www.slideshare.net/7Geese/learn-how-to-implement-okrs-to-drive-company-performance)
+- [The 6 major benefits of OKR](http://www.slideshare.net/HenrikJanVanderPol/okrs-6-most-important-benefits-of-objectives-key-results/9-About_the_authorHenrikJan_is_an)
+- [OKR - Objectives and Key Results](http://www.slideshare.net/weekdone/okr-objectives-and-keyresults)
+- [Power your business with OKR](http://www.slideshare.net/wrike/power-your-business-with-okrs/17-Awardwinning_Collaboration_Project_Management_SoftwareBrought)
 
 # Videos
 - List [here](https://github.com/domenicosolazzo/practice-okr/blob/master/Videos.md)
