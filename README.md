@@ -21,6 +21,7 @@ A curated list of resources about OKRs
 - [OKR - a guide to objectives and key results](http://www.slideshare.net/DanKeegan/okr-a-guide-to-objectives-and-key-results-36471600)
 - [The Guide to Objectives and Key Results](http://www.slideshare.net/BetterWorks/the-guide-to-okrs)
 - [How to define good OKRs](http://www.slideshare.net/HenrikJanVanderPol/how-to-set-good-ok-rs)
+- [OKRs](http://www.slideshare.net/andrefaria/ok-rs)
 
 # Videos
 - List [here](https://github.com/domenicosolazzo/practice-okr/blob/master/Videos.md)
@@ -31,6 +32,7 @@ A curated list of resources about OKRs
 - [OKRs: Implementation and challanges](https://blog.pusher.com/okrs-implementation-challenges/)
 - [How we make OKRs work](https://blog.pusher.com/make-okrs-work/)
 - [How to Easily Set Quarterly Team Objectives with OKRs](https://blog.pusher.com/how-to-set-quartely-okrs-for-your-teams/)
+- [OKRs implementation challenges](https://blog.pusher.com/okrs-implementation-challenges/)
 - [How we set goals at Upstart](http://blog.upstart.com/okrs-and-projects-how-we-set-goals-at-upstart/)
 - [Manager OKRs, Maker OKRs: How I’d Change Google’s Goal Setting Process](http://hunterwalk.com/2013/03/01/manager-okrs-maker-okrs-how-id-change-googles-goal-setting-process/)
 - [Are You a C.E.O. of Something?](http://www.nytimes.com/2010/01/31/business/31corner.html?pagewanted=2&_r=4&)
@@ -49,6 +51,8 @@ A curated list of resources about OKRs
 - [OKRs: The New Solution to Managing Your Freelancers](https://www.atiim.com/blog/okrs-new-solution-managing-freelancers/)
 - [Google Releases a New Guide to Setting Goals with OKRs](https://www.atiim.com/blog/google-releases-a-new-guide-to-setting-goals-with-okrs/)
 - [The biggest pitfalls of OKRs and how to avoid them](https://www.atiim.com/blog/the-biggest-pitfalls-of-okrs-and-how-to-avoid-them/)
+- [Start-up speed](https://www.thinkwithgoogle.com/articles/start-up-speed-kristen-gil.html)
+- [This Is The Internal Grading System Google Uses For Its Employees — And You Should Use It Too](http://www.businessinsider.com/googles-ranking-system-okr-2014-1?IR=T)
 
 # Quora
 - [We are starting to implement OKRs in our company for the first time. Do any of you have experience in terms of problems or issues encountered?](http://www.quora.com/We-are-starting-to-implement-OKRs-in-our-company-for-the-first-time-Do-any-of-you-have-experience-in-terms-of-problems-or-issues-encountered)
