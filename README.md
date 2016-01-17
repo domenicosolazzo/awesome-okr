@@ -1,4 +1,4 @@
-# Practice OKR
+# Awesome OKR
 Practicing Objective - Key Results
 
 # Basics
