@@ -20,6 +20,7 @@ A curated list of resources about OKRs
 - [Power your business with OKR](http://www.slideshare.net/wrike/power-your-business-with-okrs/17-Awardwinning_Collaboration_Project_Management_SoftwareBrought)
 - [OKR - a guide to objectives and key results](http://www.slideshare.net/DanKeegan/okr-a-guide-to-objectives-and-key-results-36471600)
 - [The Guide to Objectives and Key Results](http://www.slideshare.net/BetterWorks/the-guide-to-okrs)
+- [How to define good OKRs](http://www.slideshare.net/HenrikJanVanderPol/how-to-set-good-ok-rs)
 
 # Videos
 - List [here](https://github.com/domenicosolazzo/practice-okr/blob/master/Videos.md)
