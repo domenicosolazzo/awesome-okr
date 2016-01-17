@@ -41,6 +41,9 @@ A curated list of resources about OKRs
 - [Better at a Glance OKR](https://blog.weekdone.com/better-at-a-glance-okr-overview/)
 - [List of companies that use OKRs](https://www.atiim.com/blog/top-companies-that-use-okrs/)
 - [How Google grades employees, and how you can use the same system at your company](http://www.businessinsider.my/google-okr-employee-grading-system-2015-10/)
+- [What are OKRs?](https://www.atiim.com/okr/)
+- [15 great insights from the Google OKR video](https://www.atiim.com/blog/15-great-insights-from-the-google-okr-video/)
+- [Full Transcription of Google OKR Video – How Google Sets Goals Using OKRs](https://www.atiim.com/google-okr-objectives-key-results-video-transcript/)
 
 # Quora
 - [We are starting to implement OKRs in our company for the first time. Do any of you have experience in terms of problems or issues encountered?](http://www.quora.com/We-are-starting-to-implement-OKRs-in-our-company-for-the-first-time-Do-any-of-you-have-experience-in-terms-of-problems-or-issues-encountered)
