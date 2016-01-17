@@ -1,5 +1,5 @@
 # Awesome OKR
-Practicing Objective - Key Results
+A curated list of resources about OKRs
 
 # Basics
 - [Basic of OKR](https://github.com/domenicosolazzo/practice-okr/blob/master/Basic.md)
