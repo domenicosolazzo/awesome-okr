@@ -56,10 +56,13 @@ A curated list of resources about OKRs
 - [How does the process of developing and prioritizing OKRs (objectives and key results) work at companies like Google and Zynga?](https://www.quora.com/How-does-the-process-of-developing-and-prioritizing-OKRs-objectives-and-key-results-work-at-companies-like-Google-and-Zynga)
 
 # Guides
-### Google
-- [Set goals with OKRs](https://rework.withgoogle.com/guides/set-goals-with-okrs/steps/introduction/)
-- [Definitive guide to OKRs (Ebook)](https://www.atiim.com/resources/definitive-guide-to-okrs/)
-- [How to Set OKR Goals like Google: Top 10 Tips](https://www.atiim.com/resources/okr-top-10-tips/)
+- [Set goals with OKRs by Google](https://rework.withgoogle.com/guides/set-goals-with-okrs/steps/introduction/)
+- [Definitive guide to OKRs (Ebook) by Atiim](https://www.atiim.com/resources/definitive-guide-to-okrs/)
+- [How to Set OKR Goals like Google: Top 10 Tips by Atiim](https://www.atiim.com/resources/okr-top-10-tips/)
+
+# Checklists
+- [The Smart Way to Set OKR](https://www.atiim.com/download-okr-checklist/)
+
 
 # Templates
 ### Word
