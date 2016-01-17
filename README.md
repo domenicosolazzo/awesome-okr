@@ -27,6 +27,7 @@ A curated list of resources about OKRs
 
 # Articles
 - [John Doerr on success using OKR](http://blog.betterworks.com/keys-okr-success-qa-john-doerr/)
+- [How Google Grew from 40 to 40,000 Employees](https://blog.betterworks.com/how-google-grew/)
 - [OKRs: Implementation and challanges](https://blog.pusher.com/okrs-implementation-challenges/)
 - [How we make OKRs work](https://blog.pusher.com/make-okrs-work/)
 - [How to Easily Set Quarterly Team Objectives with OKRs](https://blog.pusher.com/how-to-set-quartely-okrs-for-your-teams/)
