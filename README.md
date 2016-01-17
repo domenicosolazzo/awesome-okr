@@ -44,6 +44,11 @@ A curated list of resources about OKRs
 - [What are OKRs?](https://www.atiim.com/okr/)
 - [15 great insights from the Google OKR video](https://www.atiim.com/blog/15-great-insights-from-the-google-okr-video/)
 - [Full Transcription of Google OKR Video – How Google Sets Goals Using OKRs](https://www.atiim.com/google-okr-objectives-key-results-video-transcript/)
+- [How to Use KPIs with OKRs](https://www.atiim.com/blog/how-to-use-kpis-with-okrs/)
+- [What Twitter’s CEO Learned from Google](https://www.atiim.com/blog/what-twitters-ceo-learned-from-google/)
+- [OKRs: The New Solution to Managing Your Freelancers](https://www.atiim.com/blog/okrs-new-solution-managing-freelancers/)
+- [Google Releases a New Guide to Setting Goals with OKRs](https://www.atiim.com/blog/google-releases-a-new-guide-to-setting-goals-with-okrs/)
+- [The biggest pitfalls of OKRs and how to avoid them](https://www.atiim.com/blog/the-biggest-pitfalls-of-okrs-and-how-to-avoid-them/)
 
 # Quora
 - [We are starting to implement OKRs in our company for the first time. Do any of you have experience in terms of problems or issues encountered?](http://www.quora.com/We-are-starting-to-implement-OKRs-in-our-company-for-the-first-time-Do-any-of-you-have-experience-in-terms-of-problems-or-issues-encountered)
