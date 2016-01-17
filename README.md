@@ -81,6 +81,7 @@ A curated list of resources about OKRs
 ### Excel
 - [OKR report spreadsheet template by WeekDone](https://weekdone.com/resources/templates/okr-report-spreadsheet-template)
 - [OKR report spreadsheet example by WeekDone](https://weekdone.com/resources/templates/okr-report-spreadsheet-example)
+- [OKR Template for your startup](https://docs.google.com/spreadsheets/d/1gsb2UNLeHkFAiEso4BPV10r5AudIJOx0PYhEsjAfd88/edit#gid=14)
 - [OKR Scorecard by Google](https://docs.google.com/spreadsheets/d/1KyKt6yAwu0NCM1f55JSjpOBpr5YjhIL4E_vYN0VWuEg/edit#gid=761446612)
 
 # Software
