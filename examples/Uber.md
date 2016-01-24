@@ -1,5 +1,7 @@
 # Uber
 
+[Source](https://goo.gl/0QsMi9)
+
 There is this wonderful paper napkin plan of Uber’s path to growth.
 ![Uber strategy](https://cdn-images-1.medium.com/max/1000/1*Fvn3iXJMS6FcK7uaTKjX4A.jpeg)
 
