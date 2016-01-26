@@ -100,3 +100,11 @@ It is used in several companies like Google, Netflix, Zynga, Twitter and LinkedI
 - [15five](http://www.15five.com/)
 
 From this [PH Colletion](http://www.producthunt.com/@domenicosolazzo/collections/okr)
+
+# CONTRIBUTING
+Read [this](https://github.com/domenicosolazzo/awesome-okr/blob/master/CONTRIBUTING.md) if you want to contribute to this list.
+
+# CODE OF CONDUCT
+Read [this](https://github.com/domenicosolazzo/awesome-okr/blob/master/CONTRIBUTING.md) regarding the code of conduct.
+
+# License
