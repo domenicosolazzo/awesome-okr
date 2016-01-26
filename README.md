@@ -13,18 +13,18 @@ It is used in several companies like Google, Netflix, Zynga, Twitter and LinkedI
 - [Fundamentals of OKR](https://medium.com/startup-tools/okrs-5afdc298bc28): Great article describing the fundamental of OKR with real examples from Uber and Youtube.
 
 # Slides
-- [OKR: A guide](http://www.slideshare.net/mustansir78/guide-to-okr-objectives-key-results)
-- [The Basics of OKR](http://www.slideshare.net/HenrikJanVanderPol/how-to-outperform-anyone-else-introduction-to-okr)
-- [Organizing and engineering Team on Asana](http://www.slideshare.net/asana/organizing-an-engineering-team-using-asana)
-- [Execturioner's tale](http://www.slideshare.net/cwodtke/the-executioners-tale-34241002)
-- [How to implement OKRs to drive company performance](http://www.slideshare.net/7Geese/learn-how-to-implement-okrs-to-drive-company-performance)
-- [The 6 major benefits of OKR](http://www.slideshare.net/HenrikJanVanderPol/okrs-6-most-important-benefits-of-objectives-key-results/9-About_the_authorHenrikJan_is_an)
-- [OKR - Objectives and Key Results](http://www.slideshare.net/weekdone/okr-objectives-and-keyresults)
-- [Power your business with OKR](http://www.slideshare.net/wrike/power-your-business-with-okrs/17-Awardwinning_Collaboration_Project_Management_SoftwareBrought)
+- [OKR: A guide](http://www.slideshare.net/mustansir78/guide-to-okr-objectives-key-results): What are OKRs and what's in it for me?
+- [The Basics of OKR](http://www.slideshare.net/HenrikJanVanderPol/how-to-outperform-anyone-else-introduction-to-okr): Nice presentation presenting basic concepts of OKR.
+- [Organizing and engineering Team on Asana](http://www.slideshare.net/asana/organizing-an-engineering-team-using-asana): How Asana uses Key Results in their engineering team
+- [Executioner's tale](http://www.slideshare.net/cwodtke/the-executioners-tale-34241002): The slides from the talk "Executioner's tale" by Christina Wodtke.
+- [How to implement OKRs to drive company performance](http://www.slideshare.net/7Geese/learn-how-to-implement-okrs-to-drive-company-performance): Learn how to implement the OKRs goal-setting process to drive company performance
+- [The 6 major benefits of OKR](http://www.slideshare.net/HenrikJanVanderPol/okrs-6-most-important-benefits-of-objectives-key-results/9-About_the_authorHenrikJan_is_an): A description of the major benefits when using OKRs in your company
+- [OKR - Objectives and Key Results](http://www.slideshare.net/weekdone/okr-objectives-and-keyresults): A great overview about OKRs by WeekDone
+- [Power your business with OKR](http://www.slideshare.net/wrike/power-your-business-with-okrs/17-Awardwinning_Collaboration_Project_Management_SoftwareBrought): An overview about OKR and how to power your business by Wrike
 - [OKR - a guide to objectives and key results](http://www.slideshare.net/DanKeegan/okr-a-guide-to-objectives-and-key-results-36471600)
-- [The Guide to Objectives and Key Results](http://www.slideshare.net/BetterWorks/the-guide-to-okrs)
-- [How to define good OKRs](http://www.slideshare.net/HenrikJanVanderPol/how-to-set-good-ok-rs)
-- [OKRs](http://www.slideshare.net/andrefaria/ok-rs)
+- [The Guide to Objectives and Key Results](http://www.slideshare.net/BetterWorks/the-guide-to-okrs): A light-weight and informative overview of OKR by Benchify
+- [How to define good OKRs](http://www.slideshare.net/HenrikJanVanderPol/how-to-set-good-ok-rs): Great slides describing how to set good OKRs
+- [From Intel to Google](http://www.slideshare.net/andrefaria/ok-rs): How to achieve your targets with the methodology invented at Intel and used by Google
 
 # Videos
 - List [here](https://github.com/domenicosolazzo/practice-okr/blob/master/Videos.md)
