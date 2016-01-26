@@ -5,12 +5,12 @@ OKR are the best practice of setting and communicating company, team and employe
 It is used in several companies like Google, Netflix, Zynga, Twitter and LinkedIn and it make it easier to align all the employees around the company mission and vision.
 
 # Basics
-- [Basic of OKR](https://github.com/domenicosolazzo/practice-okr/blob/master/Basic.md)
-- [Worksheet OKR template](https://github.com/domenicosolazzo/practice-okr/blob/master/Worksheet.md)
-- [Use a weekly status email](https://github.com/domenicosolazzo/practice-okr/blob/master/Weekly_Status_Email)
-- [How to set OKRs](https://github.com/domenicosolazzo/practice-okr/blob/master/How_to_set_OKRs.md)
-- [Monday's and Friday's: The commitment square](https://github.com/domenicosolazzo/practice-okr/blob/master/Commitment-Square.md)
-- [Fundamentals of OKR](https://medium.com/startup-tools/okrs-5afdc298bc28)
+- [Basic of OKR](https://github.com/domenicosolazzo/practice-okr/blob/master/Basic.md): Basic concepts about OKRs.
+- [Worksheet OKR template](https://github.com/domenicosolazzo/practice-okr/blob/master/Worksheet.md): A worksheet for starting the planning of OKRs
+- [Use a weekly status email](https://github.com/domenicosolazzo/practice-okr/blob/master/Weekly_Status_Email): How to set a weekly status email towards your OKRs.
+- [How to set OKRs](https://github.com/domenicosolazzo/practice-okr/blob/master/How_to_set_OKRs.md): A quick list for how to set OKRs in your company.
+- [Monday's and Friday's: The commitment square](https://github.com/domenicosolazzo/practice-okr/blob/master/Commitment-Square.md): The commitment square used to analyze progresses and roadblocks againsts the OKRs.
+- [Fundamentals of OKR](https://medium.com/startup-tools/okrs-5afdc298bc28): Great article describing the fundamental of OKR with real examples from Uber and Youtube.
 
 # Slides
 - [OKR: A guide](http://www.slideshare.net/mustansir78/guide-to-okr-objectives-key-results)
