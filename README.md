@@ -1,6 +1,9 @@
 # Awesome OKR [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 A curated list of resources about OKRs
 
+OKR are the best practice of setting and communicating company, team and employee objectives and measuring their progress based on achieved results.
+It is used in several companies like Google, Netflix, Zynga, Twitter and LinkedIn and it make it easier to align all the employees around the company mission and vision.
+
 # Basics
 - [Basic of OKR](https://github.com/domenicosolazzo/practice-okr/blob/master/Basic.md)
 - [Worksheet OKR template](https://github.com/domenicosolazzo/practice-okr/blob/master/Worksheet.md)
