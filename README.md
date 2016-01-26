@@ -108,3 +108,4 @@ Read [this](https://github.com/domenicosolazzo/awesome-okr/blob/master/CONTRIBUT
 Read [this](https://github.com/domenicosolazzo/awesome-okr/blob/master/CONTRIBUTING.md) regarding the code of conduct.
 
 # License
+The License is [CC0 1.0 Universal](https://github.com/domenicosolazzo/awesome-okr/blob/master/LICENSE)
