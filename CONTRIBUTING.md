@@ -1,6 +1,6 @@
 # Contribution Guidelines
 This project is made under a [Code of 
-Conduct](https://github.com/cristianoliveira/awesome4girls/blob/master/CODE_OF_CONDUCT.md). By participating you agree to abide by its terms.
+Conduct](https://github.com/domenicosolazzo/awesome-okr/blob/master/CODE_OF_CONDUCT.md). By participating you agree to abide by its terms.
 _____
 Please ensure your pull request adheres to the following guidelines:
 
