@@ -27,7 +27,9 @@ It is used in several companies like Google, Netflix, Zynga, Twitter and LinkedI
 - [From Intel to Google](http://www.slideshare.net/andrefaria/ok-rs): How to achieve your targets with the methodology invented at Intel and used by Google
 
 # Videos
-- List [here](https://github.com/domenicosolazzo/practice-okr/blob/master/Videos.md)
+- [How google sets goals objectives and Key results](https://www.gv.com/lib/how-google-sets-goals-objectives-and-key-results-okrs): The most famous video on OKR by Rick Klau@Google
+- [The Executioner's Tale](https://vimeo.com/86392023): The Executioner's tale by Christina Wodtke
+- [Warm Gun Talk](http://eleganthack.com/my-warm-gun-talk-on-okrs/): Another talk about OKR by Christina Wodtke
 
 # Articles
 - [John Doerr on success using OKR](http://blog.betterworks.com/keys-okr-success-qa-john-doerr/): Keys to OKR Success: A Q&A with the Man Who Introduced OKRs to Google, John Doerr
