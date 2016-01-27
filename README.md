@@ -30,32 +30,29 @@ It is used in several companies like Google, Netflix, Zynga, Twitter and LinkedI
 - List [here](https://github.com/domenicosolazzo/practice-okr/blob/master/Videos.md)
 
 # Articles
-- [John Doerr on success using OKR](http://blog.betterworks.com/keys-okr-success-qa-john-doerr/)
-- [How Google Grew from 40 to 40,000 Employees](https://blog.betterworks.com/how-google-grew/)
-- [OKRs: Implementation and challanges](https://blog.pusher.com/okrs-implementation-challenges/)
-- [How we make OKRs work](https://blog.pusher.com/make-okrs-work/)
-- [How to Easily Set Quarterly Team Objectives with OKRs](https://blog.pusher.com/how-to-set-quartely-okrs-for-your-teams/)
-- [OKRs implementation challenges](https://blog.pusher.com/okrs-implementation-challenges/)
-- [How we set goals at Upstart](http://blog.upstart.com/okrs-and-projects-how-we-set-goals-at-upstart/)
-- [Manager OKRs, Maker OKRs: How I’d Change Google’s Goal Setting Process](http://hunterwalk.com/2013/03/01/manager-okrs-maker-okrs-how-id-change-googles-goal-setting-process/)
-- [Are You a C.E.O. of Something?](http://www.nytimes.com/2010/01/31/business/31corner.html?pagewanted=2&_r=4&)
-- [How to set & achieve meaningful OKRs](http://blog.kentonkivestu.com/goals-how-to-get-things-done)
-- [How to Make OKRs Actually Work at Your Startup](http://firstround.com/review/How-to-Make-OKRs-Actually-Work-at-Your-Startup/)
-- [OKR Mistakes](http://eleganthack.com/okr-mistakes-and-how-to-fix-them/)
-- [ORK Worksheet](http://eleganthack.com/an-okr-worksheet/)
-- [Better at a Glance OKR](https://blog.weekdone.com/better-at-a-glance-okr-overview/)
-- [List of companies that use OKRs](https://www.atiim.com/blog/top-companies-that-use-okrs/)
-- [How Google grades employees, and how you can use the same system at your company](http://www.businessinsider.my/google-okr-employee-grading-system-2015-10/)
-- [What are OKRs?](https://www.atiim.com/okr/)
-- [15 great insights from the Google OKR video](https://www.atiim.com/blog/15-great-insights-from-the-google-okr-video/)
-- [Full Transcription of Google OKR Video – How Google Sets Goals Using OKRs](https://www.atiim.com/google-okr-objectives-key-results-video-transcript/)
-- [How to Use KPIs with OKRs](https://www.atiim.com/blog/how-to-use-kpis-with-okrs/)
-- [What Twitter’s CEO Learned from Google](https://www.atiim.com/blog/what-twitters-ceo-learned-from-google/)
-- [OKRs: The New Solution to Managing Your Freelancers](https://www.atiim.com/blog/okrs-new-solution-managing-freelancers/)
-- [Google Releases a New Guide to Setting Goals with OKRs](https://www.atiim.com/blog/google-releases-a-new-guide-to-setting-goals-with-okrs/)
-- [The biggest pitfalls of OKRs and how to avoid them](https://www.atiim.com/blog/the-biggest-pitfalls-of-okrs-and-how-to-avoid-them/)
-- [Start-up speed](https://www.thinkwithgoogle.com/articles/start-up-speed-kristen-gil.html)
-- [This Is The Internal Grading System Google Uses For Its Employees — And You Should Use It Too](http://www.businessinsider.com/googles-ranking-system-okr-2014-1?IR=T)
+- [John Doerr on success using OKR](http://blog.betterworks.com/keys-okr-success-qa-john-doerr/): Keys to OKR Success: A Q&A with the Man Who Introduced OKRs to Google, John Doerr
+- [How Google Grew from 40 to 40,000 Employees](https://blog.betterworks.com/how-google-grew/): How OKR helped a company like Google to grow from 40 to 40,000 employees
+- [Implementation and challanges at Pusher](https://blog.pusher.com/okrs-implementation-challenges/): Implementation, challenges and results at Pusher
+- [How we make OKRs work at Pusher](https://blog.pusher.com/make-okrs-work/): A great article regarding alignment and trasparency of OKR and how it helped at Pusher
+- [How to Easily Set Quarterly Team Objectives with OKRs at Pusher](https://blog.pusher.com/how-to-set-quartely-okrs-for-your-teams/): Another article by Pusher regarding how they set quarterly team objectives
+- [How we set goals at Upstart](http://blog.upstart.com/okrs-and-projects-how-we-set-goals-at-upstart/): How Upstart set OKRs and set goals for the entire company
+- [Manager OKRs, Maker OKRs: How I’d Change Google’s Goal Setting Process](http://hunterwalk.com/2013/03/01/manager-okrs-maker-okrs-how-id-change-googles-goal-setting-process/): How Sasha Lubomirsky envisions the future of OKRs
+- [Are You a C.E.O. of Something?](http://www.nytimes.com/2010/01/31/business/31corner.html?pagewanted=2&_r=4&): An interview with Mark Pincus and how OKR helped at Zynga
+- [How to set & achieve meaningful OKRs](http://blog.kentonkivestu.com/goals-how-to-get-things-done): This article describes how to set & achieve meaningful OKRs
+- [How to Make OKRs Actually Work at Your Startup](http://firstround.com/review/How-to-Make-OKRs-Actually-Work-at-Your-Startup/): A story about how OKRs helped at Swipely
+- [OKR Mistakes](http://eleganthack.com/okr-mistakes-and-how-to-fix-them/): This is an important article that descrives the most common mistakes while writing OKRs and how to fix them.
+- [ORK Worksheet](http://eleganthack.com/an-okr-worksheet/): A great worksheet for getting started with OKRs
+- [List of companies that use OKRs](https://www.atiim.com/blog/top-companies-that-use-okrs/): A list of the top companies using OKRs
+- [How Google grades employees, and how you can use the same system at your company](http://www.businessinsider.my/google-okr-employee-grading-system-2015-10/): How Google grades employees, and how you can use the same system at your company.
+- [What are OKRs?](https://www.atiim.com/okr/): Basics about what OKRs are.
+- [15 great insights from the Google OKR video](https://www.atiim.com/blog/15-great-insights-from-the-google-okr-video/): Great insights from the most famous video about OKR
+- [Full Transcription of Google OKR Video – How Google Sets Goals Using OKRs](https://www.atiim.com/google-okr-objectives-key-results-video-transcript/): The full transcript from the most famous video about OKRs
+- [How to Use KPIs with OKRs](https://www.atiim.com/blog/how-to-use-kpis-with-okrs/): How to connect KPI and OKRs together.
+- [What Twitter’s CEO Learned from Google](https://www.atiim.com/blog/what-twitters-ceo-learned-from-google/): An interview with Dick Costolo about OKRs at Twitter
+- [OKRs: The New Solution to Managing Your Freelancers](https://www.atiim.com/blog/okrs-new-solution-managing-freelancers/): How to hire and align freelancers using OKRs
+- [Google Releases a New Guide to Setting Goals with OKRs](https://www.atiim.com/blog/google-releases-a-new-guide-to-setting-goals-with-okrs/): Great insights from the new Google's guide about OKRs
+- [The biggest pitfalls of OKRs and how to avoid them](https://www.atiim.com/blog/the-biggest-pitfalls-of-okrs-and-how-to-avoid-them/): Some common issues while adopting OKRs
+- [This Is The Internal Grading System Google Uses For Its Employees — And You Should Use It Too](http://www.businessinsider.com/googles-ranking-system-okr-2014-1?IR=T): Another article from Business Insider regarding OKR and great insights from the Kris Klau talk at Google
 
 # Quora
 - [We are starting to implement OKRs in our company for the first time. Do any of you have experience in terms of problems or issues encountered?](http://www.quora.com/We-are-starting-to-implement-OKRs-in-our-company-for-the-first-time-Do-any-of-you-have-experience-in-terms-of-problems-or-issues-encountered)
