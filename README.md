@@ -57,19 +57,25 @@ It is used in several companies like Google, Netflix, Zynga, Twitter and LinkedI
 - [This Is The Internal Grading System Google Uses For Its Employees — And You Should Use It Too](http://www.businessinsider.com/googles-ranking-system-okr-2014-1?IR=T): Another article from Business Insider regarding OKR and great insights from the Kris Klau talk at Google
 
 # Quora
+Interesting questions in Quora about OKRs
+
 - [We are starting to implement OKRs in our company for the first time. Do any of you have experience in terms of problems or issues encountered?](http://www.quora.com/We-are-starting-to-implement-OKRs-in-our-company-for-the-first-time-Do-any-of-you-have-experience-in-terms-of-problems-or-issues-encountered)
 - [What's a use case where a company uses both OKR and KPI?](http://www.quora.com/Whats-a-use-case-where-a-company-uses-both-OKR-and-KPI)
 - [How does the process of developing and prioritizing OKRs (objectives and key results) work at companies like Google and Zynga?](https://www.quora.com/How-does-the-process-of-developing-and-prioritizing-OKRs-objectives-and-key-results-work-at-companies-like-Google-and-Zynga)
 
 # Guides
-- [Set goals with OKRs by Google](https://rework.withgoogle.com/guides/set-goals-with-okrs/steps/introduction/)
-- [Definitive guide to OKRs (Ebook) by Atiim](https://www.atiim.com/resources/definitive-guide-to-okrs/)
-- [How to Set OKR Goals like Google: Top 10 Tips by Atiim](https://www.atiim.com/resources/okr-top-10-tips/)
+These are some ebooks and guides about OKR.
+
+- [Set goals with OKRs by Google](https://rework.withgoogle.com/guides/set-goals-with-okrs/steps/introduction/): Official guide about OKR by Google
+- [Definitive guide to OKRs (Ebook) by Atiim](https://www.atiim.com/resources/definitive-guide-to-okrs/): Ebook describing how to set OKRs
+- [How to Set OKR Goals like Google: Top 10 Tips by Atiim](https://www.atiim.com/resources/okr-top-10-tips/): 10 tips about how to set OKRs like Google
 
 # Checklists
 - [The Smart Way to Set OKR](https://www.atiim.com/download-okr-checklist/)
 
 # Research
+These are interesting research papers connected to OKRs
+
 - [The Determinants of Goal Commitment](http://amr.aom.org/content/13/1/23.abstract)
 - [Goal Setting and Task Performance: 1969-1980](http://datause.cse.ucla.edu/docs/eal_goa_1981.pdf)
 
