@@ -79,13 +79,17 @@ These are interesting research papers connected to OKRs
 
 # Templates
 ### Word
-- [OKR report document example by WeekDone](https://weekdone.com/resources/templates/okr-report-document-example)
-- [OKR report document template by WeekDone](https://weekdone.com/resources/templates/okr-report-document-template)
-- [Startup OKRs Template](https://docs.google.com/document/d/1OHpQOvZz76_10ebJP2AKvvXUF3H9yd6FC89F5jS4mks/edit?pli=1)
-- [OKR Scorecard by Google](https://docs.google.com/document/d/1iK7oQ7d96isVEzUfvQYLIUZ8WU4vkSGgtOM-J7nFd7k/edit)
+A list of word template for setting OKRs.
+
+- [OKR report document example by WeekDone](https://weekdone.com/resources/templates/okr-report-document-example): A word template for setting your OKRs.
+- [OKR report document template by WeekDone](https://weekdone.com/resources/templates/okr-report-document-template): Another word template offered by WeekDone.
+- [Startup OKRs Template](https://docs.google.com/document/d/1OHpQOvZz76_10ebJP2AKvvXUF3H9yd6FC89F5jS4mks/edit?pli=1): A word template describing how to set OKRs
+- [OKR Scorecard by Google](https://docs.google.com/document/d/1iK7oQ7d96isVEzUfvQYLIUZ8WU4vkSGgtOM-J7nFd7k/edit): The OKR Scorecard from the re:Work site a Google.
 
 ### Excel
-- [OKR report word template by WeekDone](https://weekdone.com/resources/templates/okr-report-spreadsheet-template): A word template for setting your OKR. 
+A list of excel templates for setting OKRs.
+
+- [OKR report word template by WeekDone](https://weekdone.com/resources/templates/okr-report-spreadsheet-template): An excel template for setting your OKR. 
 - [OKR report spreadsheet example by WeekDone](https://weekdone.com/resources/templates/okr-report-spreadsheet-example): An excel template for setting your OKRs.
 - [OKR Template for your startup](https://docs.google.com/spreadsheets/d/1gsb2UNLeHkFAiEso4BPV10r5AudIJOx0PYhEsjAfd88/edit#gid=14): A public excel template for setting OKRs.
 - [OKR Scorecard by Google](https://docs.google.com/spreadsheets/d/1KyKt6yAwu0NCM1f55JSjpOBpr5YjhIL4E_vYN0VWuEg/edit#gid=761446612): An excel template for setting OKRs. It is the same that you can find in the re:Work site at Google 
