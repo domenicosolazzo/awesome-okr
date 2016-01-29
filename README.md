@@ -85,10 +85,10 @@ These are interesting research papers connected to OKRs
 - [OKR Scorecard by Google](https://docs.google.com/document/d/1iK7oQ7d96isVEzUfvQYLIUZ8WU4vkSGgtOM-J7nFd7k/edit)
 
 ### Excel
-- [OKR report spreadsheet template by WeekDone](https://weekdone.com/resources/templates/okr-report-spreadsheet-template)
-- [OKR report spreadsheet example by WeekDone](https://weekdone.com/resources/templates/okr-report-spreadsheet-example)
-- [OKR Template for your startup](https://docs.google.com/spreadsheets/d/1gsb2UNLeHkFAiEso4BPV10r5AudIJOx0PYhEsjAfd88/edit#gid=14)
-- [OKR Scorecard by Google](https://docs.google.com/spreadsheets/d/1KyKt6yAwu0NCM1f55JSjpOBpr5YjhIL4E_vYN0VWuEg/edit#gid=761446612)
+- [OKR report word template by WeekDone](https://weekdone.com/resources/templates/okr-report-spreadsheet-template): A word template for setting your OKR. 
+- [OKR report spreadsheet example by WeekDone](https://weekdone.com/resources/templates/okr-report-spreadsheet-example): An excel template for setting your OKRs.
+- [OKR Template for your startup](https://docs.google.com/spreadsheets/d/1gsb2UNLeHkFAiEso4BPV10r5AudIJOx0PYhEsjAfd88/edit#gid=14): A public excel template for setting OKRs.
+- [OKR Scorecard by Google](https://docs.google.com/spreadsheets/d/1KyKt6yAwu0NCM1f55JSjpOBpr5YjhIL4E_vYN0VWuEg/edit#gid=761446612): An excel template for setting OKRs. It is the same that you can find in the re:Work site at Google 
 
 # Software
 - [Weekdone](http://www.producthunt.com/tech/weekdone)
