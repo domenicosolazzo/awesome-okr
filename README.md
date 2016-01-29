@@ -69,9 +69,7 @@ These are some ebooks and guides about OKR.
 - [Set goals with OKRs by Google](https://rework.withgoogle.com/guides/set-goals-with-okrs/steps/introduction/): Official guide about OKR by Google
 - [Definitive guide to OKRs (Ebook) by Atiim](https://www.atiim.com/resources/definitive-guide-to-okrs/): Ebook describing how to set OKRs
 - [How to Set OKR Goals like Google: Top 10 Tips by Atiim](https://www.atiim.com/resources/okr-top-10-tips/): 10 tips about how to set OKRs like Google
-
-# Checklists
-- [The Smart Way to Set OKR](https://www.atiim.com/download-okr-checklist/)
+- [The Smart Way to Set OKR](https://www.atiim.com/download-okr-checklist/): Simple checklist about how to set OKRs
 
 # Research
 These are interesting research papers connected to OKRs
