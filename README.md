@@ -74,8 +74,8 @@ These are some ebooks and guides about OKR.
 # Research
 These are interesting research papers connected to OKRs
 
-- [The Determinants of Goal Commitment](http://amr.aom.org/content/13/1/23.abstract)
-- [Goal Setting and Task Performance: 1969-1980](http://datause.cse.ucla.edu/docs/eal_goa_1981.pdf)
+- [The Determinants of Goal Commitment](http://amr.aom.org/content/13/1/23.abstract): The concept and measurement of commitment to goals, a key aspect of goal-setting theory, are discussed. The strength of the relationship between commitment and performance is asserted to depend on the amount of variance in commitment.
+- [Goal Setting and Task Performance: 1969-1980](http://datause.cse.ucla.edu/docs/eal_goa_1981.pdf): Goal setting is most likely to improve task performance when the goals are specific and sufficiently challenging, the subjects have sufficient ability (and ability differences are controlled), feedback is provided to show progress in relation to the goal, rewards such as money are given for goal attainment, the experimenter or manager is supportive, and assigned goals are accepted by the individual. 
 
 # Templates
 ### Word
