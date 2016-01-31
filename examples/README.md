@@ -1,4 +1,5 @@
 # OKR Examples
+A list of examples about how to implement OKRs. Useful when you want to get start with OKRs. These are not real examples and I am not related with the companies below.
 
 - [Uber](https://github.com/domenicosolazzo/awesome-okr/blob/master/examples/Uber.md): A case study of OKRs for Uber.
 - [Youtube](https://github.com/domenicosolazzo/awesome-okr/blob/master/examples/Uber.md): A case study of OKRs for Youtube.
