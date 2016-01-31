@@ -4,7 +4,8 @@ A curated list of resources about OKRs
 OKR are the best practice of setting and communicating company, team and employee objectives and measuring their progress based on achieved results.
 It is used in several companies like Google, Netflix, Zynga, Twitter and LinkedIn and it make it easier to align all the employees around the company mission and vision.
 
-# Basics
+## Basics
+
 - [Basic of OKR](https://github.com/domenicosolazzo/practice-okr/blob/master/Basic.md): Basic concepts about OKRs.
 - [Worksheet OKR template](https://github.com/domenicosolazzo/practice-okr/blob/master/Worksheet.md): A worksheet for starting the planning of OKRs
 - [Use a weekly status email](https://github.com/domenicosolazzo/practice-okr/blob/master/Weekly_Status_Email): How to set a weekly status email towards your OKRs.
@@ -12,7 +13,8 @@ It is used in several companies like Google, Netflix, Zynga, Twitter and LinkedI
 - [Monday's and Friday's: The commitment square](https://github.com/domenicosolazzo/practice-okr/blob/master/Commitment-Square.md): The commitment square used to analyze progresses and roadblocks againsts the OKRs.
 - [Fundamentals of OKR](https://medium.com/startup-tools/okrs-5afdc298bc28): Great article describing the fundamental of OKR with real examples from Uber and Youtube.
 
-# Slides
+## Slides
+
 - [OKR: A guide](http://www.slideshare.net/mustansir78/guide-to-okr-objectives-key-results): What are OKRs and what's in it for me?
 - [The Basics of OKR](http://www.slideshare.net/HenrikJanVanderPol/how-to-outperform-anyone-else-introduction-to-okr): Nice presentation presenting basic concepts of OKR.
 - [Organizing and engineering Team on Asana](http://www.slideshare.net/asana/organizing-an-engineering-team-using-asana): How Asana uses Key Results in their engineering team
@@ -26,12 +28,14 @@ It is used in several companies like Google, Netflix, Zynga, Twitter and LinkedI
 - [How to define good OKRs](http://www.slideshare.net/HenrikJanVanderPol/how-to-set-good-ok-rs): Great slides describing how to set good OKRs
 - [From Intel to Google](http://www.slideshare.net/andrefaria/ok-rs): How to achieve your targets with the methodology invented at Intel and used by Google
 
-# Videos
+## Videos
+
 - [How google sets goals objectives and Key results](https://www.gv.com/lib/how-google-sets-goals-objectives-and-key-results-okrs): The most famous video on OKR by Rick Klau@Google
 - [The Executioner's Tale](https://vimeo.com/86392023): The Executioner's tale by Christina Wodtke
 - [Warm Gun Talk](http://eleganthack.com/my-warm-gun-talk-on-okrs/): Another talk about OKR by Christina Wodtke
 
-# Articles
+## Articles
+
 - [John Doerr on success using OKR](http://blog.betterworks.com/keys-okr-success-qa-john-doerr/): Keys to OKR Success: A Q&A with the Man Who Introduced OKRs to Google, John Doerr
 - [How Google Grew from 40 to 40,000 Employees](https://blog.betterworks.com/how-google-grew/): How OKR helped a company like Google to grow from 40 to 40,000 employees
 - [Implementation and challanges at Pusher](https://blog.pusher.com/okrs-implementation-challenges/): Implementation, challenges and results at Pusher
@@ -56,7 +60,8 @@ It is used in several companies like Google, Netflix, Zynga, Twitter and LinkedI
 - [The biggest pitfalls of OKRs and how to avoid them](https://www.atiim.com/blog/the-biggest-pitfalls-of-okrs-and-how-to-avoid-them/): Some common issues while adopting OKRs
 - [This Is The Internal Grading System Google Uses For Its Employees — And You Should Use It Too](http://www.businessinsider.com/googles-ranking-system-okr-2014-1?IR=T): Another article from Business Insider regarding OKR and great insights from the Kris Klau talk at Google
 
-# Quora
+## Quora
+
 Interesting questions in Quora about OKRs
 
 - [We are starting to implement OKRs in our company for the first time. Do any of you have experience in terms of problems or issues encountered?](http://www.quora.com/We-are-starting-to-implement-OKRs-in-our-company-for-the-first-time-Do-any-of-you-have-experience-in-terms-of-problems-or-issues-encountered)
@@ -71,30 +76,30 @@ These are some ebooks and guides about OKR.
 - [How to Set OKR Goals like Google: Top 10 Tips by Atiim](https://www.atiim.com/resources/okr-top-10-tips/): 10 tips about how to set OKRs like Google
 - [The Smart Way to Set OKR](https://www.atiim.com/download-okr-checklist/): Simple checklist about how to set OKRs
 
-# Research
+## Research papers connected to OKRs.
+
 These are interesting research papers connected to OKRs
 
 - [The Determinants of Goal Commitment](http://amr.aom.org/content/13/1/23.abstract): The concept and measurement of commitment to goals, a key aspect of goal-setting theory, are discussed. The strength of the relationship between commitment and performance is asserted to depend on the amount of variance in commitment.
 - [Goal Setting and Task Performance: 1969-1980](http://datause.cse.ucla.edu/docs/eal_goa_1981.pdf): Goal setting is most likely to improve task performance when the goals are specific and sufficiently challenging, the subjects have sufficient ability (and ability differences are controlled), feedback is provided to show progress in relation to the goal, rewards such as money are given for goal attainment, the experimenter or manager is supportive, and assigned goals are accepted by the individual. 
 
-# Templates
-### Word
-A list of word template for setting OKRs.
+## OKRs Templates
 
+A list of word template for setting OKRs.
 - [OKR report document example by WeekDone](https://weekdone.com/resources/templates/okr-report-document-example): A word template for setting your OKRs.
 - [OKR report document template by WeekDone](https://weekdone.com/resources/templates/okr-report-document-template): An example of OKRs using the word template above.
 - [Startup OKRs Template](https://docs.google.com/document/d/1OHpQOvZz76_10ebJP2AKvvXUF3H9yd6FC89F5jS4mks/edit?pli=1): A word template describing how to set OKRs
 - [OKR Scorecard by Google](https://docs.google.com/document/d/1iK7oQ7d96isVEzUfvQYLIUZ8WU4vkSGgtOM-J7nFd7k/edit): The OKR Scorecard from the re:Work site a Google.
 
-### Excel
-A list of excel templates for setting OKRs.
 
+A list of excel templates for setting OKRs.
 - [OKR report word template by WeekDone](https://weekdone.com/resources/templates/okr-report-spreadsheet-template): An excel template for setting your OKR. 
 - [OKR report spreadsheet example by WeekDone](https://weekdone.com/resources/templates/okr-report-spreadsheet-example): An example of OKRs using the excel template above.
 - [OKR Template for your startup](https://docs.google.com/spreadsheets/d/1gsb2UNLeHkFAiEso4BPV10r5AudIJOx0PYhEsjAfd88/edit#gid=14): A public excel template for setting OKRs.
 - [OKR Scorecard by Google](https://docs.google.com/spreadsheets/d/1KyKt6yAwu0NCM1f55JSjpOBpr5YjhIL4E_vYN0VWuEg/edit#gid=761446612): An excel template for setting OKRs. It is the same that you can find in the re:Work site at Google 
 
-# OKR Examples
+## OKR Examples
+
 A list of examples about how to implement OKRs. Useful when you want to get start with OKRs.
 These are not real examples and I am not related with the companies below.
 - [Uber](https://github.com/domenicosolazzo/awesome-okr/blob/master/examples/Uber.md): A case study of OKRs for Uber.
@@ -103,7 +108,8 @@ These are not real examples and I am not related with the companies below.
 - [Photo Editing App](https://github.com/domenicosolazzo/awesome-okr/blob/master/examples/PhotoEditingApp.md): A case study of OKRs for an a fake company creating a photo editing mobile app and using OKRs to reach their goals.
 
 
-# Software
+## Software
+
 List of software for managing your OKRs. This list was made using this Product Hunt collection: [PH Colletion](http://www.producthunt.com/@domenicosolazzo/collections/okr)
 
 - [BetterWorks](http://www.producthunt.com/tech/betterworks)
@@ -117,11 +123,14 @@ List of software for managing your OKRs. This list was made using this Product H
 - [Workboard](http://www.producthunt.com/tech/workboard)
 - [15five](http://www.15five.com/)
 
-# CONTRIBUTING
+## CONTRIBUTING
+
 Read [this](https://github.com/domenicosolazzo/awesome-okr/blob/master/CONTRIBUTING.md) if you want to contribute to this list.
 
-# CODE OF CONDUCT
+## CODE OF CONDUCT
+
 Read [this](https://github.com/domenicosolazzo/awesome-okr/blob/master/CODE_OF_CONDUCT.md) regarding the code of conduct.
 
-# License
+## License
+
 The License is [CC0 1.0 Universal](https://github.com/domenicosolazzo/awesome-okr/blob/master/LICENSE)
