@@ -15,7 +15,7 @@ It is used in several companies like Google, Netflix, Zynga, Twitter and LinkedI
 - [OKR Examples](#examples)
 - [Software](#software)
 - [Contributing](#contributing)
-- [Code of Conduct](#code of coduct)
+- [Code of Conduct](#code-of-conduct)
 - [License](#license)
 
 ## Basics
@@ -73,14 +73,9 @@ It is used in several companies like Google, Netflix, Zynga, Twitter and LinkedI
 - [Google Releases a New Guide to Setting Goals with OKRs](https://www.atiim.com/blog/google-releases-a-new-guide-to-setting-goals-with-okrs/): Great insights from the new Google's guide about OKRs
 - [The biggest pitfalls of OKRs and how to avoid them](https://www.atiim.com/blog/the-biggest-pitfalls-of-okrs-and-how-to-avoid-them/): Some common issues while adopting OKRs
 - [This Is The Internal Grading System Google Uses For Its Employees — And You Should Use It Too](http://www.businessinsider.com/googles-ranking-system-okr-2014-1?IR=T): Another article from Business Insider regarding OKR and great insights from the Kris Klau talk at Google
-
-## Quora
-
-Interesting questions in Quora about OKRs
-
-- [We are starting to implement OKRs in our company for the first time. Do any of you have experience in terms of problems or issues encountered?](http://www.quora.com/We-are-starting-to-implement-OKRs-in-our-company-for-the-first-time-Do-any-of-you-have-experience-in-terms-of-problems-or-issues-encountered)
-- [What's a use case where a company uses both OKR and KPI?](http://www.quora.com/Whats-a-use-case-where-a-company-uses-both-OKR-and-KPI)
-- [How does the process of developing and prioritizing OKRs (objectives and key results) work at companies like Google and Zynga?](https://www.quora.com/How-does-the-process-of-developing-and-prioritizing-OKRs-objectives-and-key-results-work-at-companies-like-Google-and-Zynga)
+- [We are starting to implement OKRs in our company for the first time. Do any of you have experience in terms of problems or issues encountered?](http://www.quora.com/We-are-starting-to-implement-OKRs-in-our-company-for-the-first-time-Do-any-of-you-have-experience-in-terms-of-problems-or-issues-encountered): Interesting discussion in Quora about how people implement OKRs.
+- [What's a use case where a company uses both OKR and KPI?](http://www.quora.com/Whats-a-use-case-where-a-company-uses-both-OKR-and-KPI): How to connect OKRs and KPIs.
+- [How does the process of developing and prioritizing OKRs (objectives and key results) work at companies like Google and Zynga?](https://www.quora.com/How-does-the-process-of-developing-and-prioritizing-OKRs-objectives-and-key-results-work-at-companies-like-Google-and-Zynga): Some interesting answers about how companies like Google are prioritizing their OKRs.
 
 ## Guides
 
