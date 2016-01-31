@@ -4,6 +4,20 @@ A curated list of resources about OKRs
 OKR are the best practice of setting and communicating company, team and employee objectives and measuring their progress based on achieved results.
 It is used in several companies like Google, Netflix, Zynga, Twitter and LinkedIn and it make it easier to align all the employees around the company mission and vision.
 
+## Table of Contents
+- [Basics](#basics)
+- [Slides](#slides)
+- [Videos](#videos)
+- [Articles](#articles)
+- [Guides](#guides)
+- [Research papers](#research)
+- [OKRs Templates](#templates)
+- [OKR Examples](#examples)
+- [Software](#software)
+- [Contributing](#contributing)
+- [Code of Conduct](#code of coduct)
+- [License](#license)
+
 ## Basics
 
 - [Basic of OKR](https://github.com/domenicosolazzo/practice-okr/blob/master/Basic.md): Basic concepts about OKRs.
@@ -77,14 +91,14 @@ These are free ebooks and guides about OKRs.
 - [How to Set OKR Goals like Google: Top 10 Tips by Atiim](https://www.atiim.com/resources/okr-top-10-tips/): 10 tips about how to set OKRs like Google
 - [The Smart Way to Set OKR](https://www.atiim.com/download-okr-checklist/): Simple checklist about how to set OKRs
 
-## Research papers connected to OKRs.
+## Research
 
 These are interesting research papers connected to OKRs
 
 - [The Determinants of Goal Commitment](http://amr.aom.org/content/13/1/23.abstract): The concept and measurement of commitment to goals, a key aspect of goal-setting theory, are discussed. The strength of the relationship between commitment and performance is asserted to depend on the amount of variance in commitment.
 - [Goal Setting and Task Performance: 1969-1980](http://datause.cse.ucla.edu/docs/eal_goa_1981.pdf): Goal setting is most likely to improve task performance when the goals are specific and sufficiently challenging, the subjects have sufficient ability (and ability differences are controlled), feedback is provided to show progress in relation to the goal, rewards such as money are given for goal attainment, the experimenter or manager is supportive, and assigned goals are accepted by the individual. 
 
-## OKRs Templates
+## Templates
 
 A list of word template for setting OKRs.
 - [OKR report document example by WeekDone](https://weekdone.com/resources/templates/okr-report-document-example): A word template for setting your OKRs.
@@ -99,7 +113,7 @@ A list of excel templates for setting OKRs.
 - [OKR Template for your startup](https://docs.google.com/spreadsheets/d/1gsb2UNLeHkFAiEso4BPV10r5AudIJOx0PYhEsjAfd88/edit#gid=14): A public excel template for setting OKRs.
 - [OKR Scorecard by Google](https://docs.google.com/spreadsheets/d/1KyKt6yAwu0NCM1f55JSjpOBpr5YjhIL4E_vYN0VWuEg/edit#gid=761446612): An excel template for setting OKRs. It is the same that you can find in the re:Work site at Google 
 
-## OKR Examples
+## Examples
 
 A list of examples about how to implement OKRs. Useful when you want to get start with OKRs.
 These are not real examples and I am not related with the companies below.
@@ -124,11 +138,11 @@ List of software for managing your OKRs. This list was made using this Product H
 - [Workboard](http://www.producthunt.com/tech/workboard)
 - [15five](http://www.15five.com/)
 
-## CONTRIBUTING
+## Contributing
 
 Read [this](https://github.com/domenicosolazzo/awesome-okr/blob/master/CONTRIBUTING.md) if you want to contribute to this list.
 
-## CODE OF CONDUCT
+## Code of conduct
 
 Read [this](https://github.com/domenicosolazzo/awesome-okr/blob/master/CODE_OF_CONDUCT.md) regarding the code of conduct.
 
