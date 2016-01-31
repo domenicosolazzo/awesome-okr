@@ -112,7 +112,7 @@ List of software for managing your OKRs. This list was made using this Product H
 Read [this](https://github.com/domenicosolazzo/awesome-okr/blob/master/CONTRIBUTING.md) if you want to contribute to this list.
 
 # CODE OF CONDUCT
-Read [this](https://github.com/domenicosolazzo/awesome-okr/blob/master/CONTRIBUTING.md) regarding the code of conduct.
+Read [this](https://github.com/domenicosolazzo/awesome-okr/blob/master/CODE_OF_CONDUCT.md) regarding the code of conduct.
 
 # License
 The License is [CC0 1.0 Universal](https://github.com/domenicosolazzo/awesome-okr/blob/master/LICENSE)
