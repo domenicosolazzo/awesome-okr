@@ -15,12 +15,7 @@ Please ensure your pull request adheres to the following guidelines:
 
     **Description:** Some awesome description.
 ```
-If is not an international event/organization (no english version site) use:
-```
-   [Name](link) *Loc* <country flag from wikipidia>
 
-    **Description:** Some awesome description.
-```
 - Link additions should be added to the bottom of the relevant category.
 - New categories or improvements to the existing categorization are welcome.
 - Start the bio with a capital and end with a full stop/period.
