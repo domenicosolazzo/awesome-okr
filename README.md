@@ -95,18 +95,18 @@ A list of excel templates for setting OKRs.
 - [OKR Scorecard by Google](https://docs.google.com/spreadsheets/d/1KyKt6yAwu0NCM1f55JSjpOBpr5YjhIL4E_vYN0VWuEg/edit#gid=761446612): An excel template for setting OKRs. It is the same that you can find in the re:Work site at Google 
 
 # Software
+List of software for managing your OKRs. This list was made using this Product Hunt collection: [PH Colletion](http://www.producthunt.com/@domenicosolazzo/collections/okr)
+
+- [BetterWorks](http://www.producthunt.com/tech/betterworks)
 - [Weekdone](http://www.producthunt.com/tech/weekdone)
 - [TalentCove](http://www.producthunt.com/tech/cove)
 - [7Geese](http://www.producthunt.com/tech/7geese)
-- [BetterWorks](http://www.producthunt.com/tech/betterworks)
 - [StatusPath](http://www.producthunt.com/tech/statuspath)
 - [Kapta](http://www.producthunt.com/tech/kapta)
 - [SmartProgress](http://www.producthunt.com/tech/smart-progress)
 - [Strides](http://www.producthunt.com/tech/strides)
 - [Workboard](http://www.producthunt.com/tech/workboard)
 - [15five](http://www.15five.com/)
-
-From this [PH Colletion](http://www.producthunt.com/@domenicosolazzo/collections/okr)
 
 # CONTRIBUTING
 Read [this](https://github.com/domenicosolazzo/awesome-okr/blob/master/CONTRIBUTING.md) if you want to contribute to this list.
