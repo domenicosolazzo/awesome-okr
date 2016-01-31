@@ -94,6 +94,15 @@ A list of excel templates for setting OKRs.
 - [OKR Template for your startup](https://docs.google.com/spreadsheets/d/1gsb2UNLeHkFAiEso4BPV10r5AudIJOx0PYhEsjAfd88/edit#gid=14): A public excel template for setting OKRs.
 - [OKR Scorecard by Google](https://docs.google.com/spreadsheets/d/1KyKt6yAwu0NCM1f55JSjpOBpr5YjhIL4E_vYN0VWuEg/edit#gid=761446612): An excel template for setting OKRs. It is the same that you can find in the re:Work site at Google 
 
+# OKR Examples
+A list of examples about how to implement OKRs. Useful when you want to get start with OKRs.
+These are not real examples and I am not related with the companies below.
+- [Uber](https://github.com/domenicosolazzo/awesome-okr/blob/master/examples/Uber.md): A case study of OKRs for Uber.
+- [Youtube](https://github.com/domenicosolazzo/awesome-okr/blob/master/examples/Uber.md): A case study of OKRs for Youtube.
+- [Sample Company](https://github.com/domenicosolazzo/awesome-okr/blob/master/examples/SampleCompany.md): An example of OKRs for an imaginary company.
+- [Photo Editing App](https://github.com/domenicosolazzo/awesome-okr/blob/master/examples/PhotoEditingApp.md): A case study of OKRs for an a fake company creating a photo editing mobile app and using OKRs to reach their goals.
+
+
 # Software
 List of software for managing your OKRs. This list was made using this Product Hunt collection: [PH Colletion](http://www.producthunt.com/@domenicosolazzo/collections/okr)
 
