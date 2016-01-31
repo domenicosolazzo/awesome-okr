@@ -68,8 +68,9 @@ Interesting questions in Quora about OKRs
 - [What's a use case where a company uses both OKR and KPI?](http://www.quora.com/Whats-a-use-case-where-a-company-uses-both-OKR-and-KPI)
 - [How does the process of developing and prioritizing OKRs (objectives and key results) work at companies like Google and Zynga?](https://www.quora.com/How-does-the-process-of-developing-and-prioritizing-OKRs-objectives-and-key-results-work-at-companies-like-Google-and-Zynga)
 
-# Guides
-These are some ebooks and guides about OKR.
+## Guides
+
+These are free ebooks and guides about OKRs.
 
 - [Set goals with OKRs by Google](https://rework.withgoogle.com/guides/set-goals-with-okrs/steps/introduction/): Official guide about OKR by Google
 - [Definitive guide to OKRs (Ebook) by Atiim](https://www.atiim.com/resources/definitive-guide-to-okrs/): Ebook describing how to set OKRs
