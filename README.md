@@ -2,7 +2,7 @@
 A curated list of resources about OKRs
 
 OKR are the best practice of setting and communicating company, team and employee objectives and measuring their progress based on achieved results.
-It is used in several companies like Google, Netflix, Zynga, Twitter and LinkedIn and it make it easier to align all the employees around the company mission and vision.
+It is used in several companies like Google, Netflix, Zynga, LinkedIn, Twitter and it make it easier to align all the employees around the company mission and vision.
 
 ## Table of Contents
 - [Basics](#basics)
