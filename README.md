@@ -143,4 +143,6 @@ Read [this](https://github.com/domenicosolazzo/awesome-okr/blob/master/CODE_OF_C
 
 ## License
 
-The License is [CC0 1.0 Universal](https://github.com/domenicosolazzo/awesome-okr/blob/master/LICENSE)
+[![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
+
+To the extent possible under law, [Domenico Solazzo](https://github.com/domenicosolazzo) has waived all copyright and related or neighboring rights to this work.
