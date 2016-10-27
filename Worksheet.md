@@ -1,4 +1,4 @@
-# ORK Worksheet
+# OKR Worksheet
 Source: [ElegantHack](http://eleganthack.com/an-okr-worksheet/)
 
 1. **What is your company mission?** 
