@@ -91,7 +91,7 @@ These are free ebooks and guides about OKRs.
 These are interesting research papers connected to OKRs
 
 - [The Determinants of Goal Commitment](http://amr.aom.org/content/13/1/23.abstract): The concept and measurement of commitment to goals, a key aspect of goal-setting theory, are discussed. The strength of the relationship between commitment and performance is asserted to depend on the amount of variance in commitment.
-- [Goal Setting and Task Performance: 1969-1980](http://datause.cse.ucla.edu/docs/eal_goa_1981.pdf): Goal setting is most likely to improve task performance when the goals are specific and sufficiently challenging, the subjects have sufficient ability (and ability differences are controlled), feedback is provided to show progress in relation to the goal, rewards such as money are given for goal attainment, the experimenter or manager is supportive, and assigned goals are accepted by the individual. 
+- [Goal Setting and Task Performance: 1969-1980](http://datause.cse.ucla.edu/docs/eal_goa_1981.pdf): Goal setting is most likely to improve task performance when the goals are specific and sufficiently challenging, the subjects have sufficient ability (and ability differences are controlled), feedback is provided to show progress in relation to the goal, rewards such as money are given for goal attainment, the experimenter or manager is supportive, and assigned goals are accepted by the individual.
 
 ## Templates
 
@@ -103,10 +103,10 @@ A list of word template for setting OKRs.
 
 
 A list of excel templates for setting OKRs.
-- [OKR report word template by WeekDone](https://weekdone.com/resources/templates/okr-report-spreadsheet-template): An excel template for setting your OKR. 
+- [OKR report word template by WeekDone](https://weekdone.com/resources/templates/okr-report-spreadsheet-template): An excel template for setting your OKR.
 - [OKR report spreadsheet example by WeekDone](https://weekdone.com/resources/templates/okr-report-spreadsheet-example): An example of OKRs using the excel template above.
 - [OKR Template for your startup](https://docs.google.com/spreadsheets/d/1gsb2UNLeHkFAiEso4BPV10r5AudIJOx0PYhEsjAfd88/edit#gid=14): A public excel template for setting OKRs.
-- [OKR Scorecard by Google](https://docs.google.com/spreadsheets/d/1KyKt6yAwu0NCM1f55JSjpOBpr5YjhIL4E_vYN0VWuEg/edit#gid=761446612): An excel template for setting OKRs. It is the same that you can find in the re:Work site at Google 
+- [OKR Scorecard by Google](https://docs.google.com/spreadsheets/d/1KyKt6yAwu0NCM1f55JSjpOBpr5YjhIL4E_vYN0VWuEg/edit#gid=761446612): An excel template for setting OKRs. It is the same that you can find in the re:Work site at Google
 
 ## Examples
 
@@ -124,6 +124,7 @@ List of software for managing your OKRs. This list was made using this Product H
 
 - [BetterWorks](http://www.producthunt.com/tech/betterworks)
 - [Weekdone](http://www.producthunt.com/tech/weekdone)
+- [Gtmhub](https://gtmhub.com)
 - [TalentCove](http://www.producthunt.com/tech/cove)
 - [7Geese](http://www.producthunt.com/tech/7geese)
 - [StatusPath](http://www.producthunt.com/tech/statuspath)
