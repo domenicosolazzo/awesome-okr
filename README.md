@@ -134,6 +134,7 @@ List of software for managing your OKRs. This list was made using this Product H
 - [Strides](http://www.producthunt.com/tech/strides)
 - [Workboard](http://www.producthunt.com/tech/workboard)
 - [15five](http://www.15five.com/)
+- [Zugata](http://www.zugata.com/)
 
 ## Contributing
 
