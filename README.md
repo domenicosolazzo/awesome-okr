@@ -8,6 +8,7 @@ It is used in several companies like Google, Netflix, Zynga, LinkedIn, Twitter a
 - [Basics](#basics)
 - [Slides](#slides)
 - [Videos](#videos)
+- [Books](#books)
 - [Articles](#articles)
 - [Guides](#guides)
 - [Research papers](#research)
@@ -47,6 +48,10 @@ It is used in several companies like Google, Netflix, Zynga, LinkedIn, Twitter a
 - [How google sets goals objectives and Key results](https://www.gv.com/lib/how-google-sets-goals-objectives-and-key-results-okrs): The most famous video on OKR by Rick Klau@Google
 - [The Executioner's Tale](https://vimeo.com/86392023): The Executioner's tale by Christina Wodtke
 - [Warm Gun Talk](http://eleganthack.com/my-warm-gun-talk-on-okrs/): Another talk about OKR by Christina Wodtke
+
+## Books
+
+- [Measure What Matters](https://www.whatmatters.com/book): A handbook for setting and achieving audacious goals by John Doerr.
 
 ## Articles
 
