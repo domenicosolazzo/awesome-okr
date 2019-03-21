@@ -82,7 +82,7 @@ It is used in several companies like Google, Netflix, Zynga, LinkedIn, Twitter a
 - [What's a use case where a company uses both OKR and KPI?](http://www.quora.com/Whats-a-use-case-where-a-company-uses-both-OKR-and-KPI): How to connect OKRs and KPIs.
 - [How does the process of developing and prioritizing OKRs (objectives and key results) work at companies like Google and Zynga?](https://www.quora.com/How-does-the-process-of-developing-and-prioritizing-OKRs-objectives-and-key-results-work-at-companies-like-Google-and-Zynga): Some interesting answers about how companies like Google are prioritizing their OKRs.
 - [OKRs do not cascade](http://felipecastro.com/en/okr/okrs-not-cascade/)
-- [Purposeful OKR implementation based on a clear Narrative](https://www.linkedin.com/pulse/purposeful-okr-implementation-based-clear-narrative-mulyadi-oey/): Why it is important to understand the rationale behind your OKR, and present it in a narrative form.
+- [Newsletter by Product Narrative](https://medium.com/product-narrative/tagged/newsletter): Learning points from helping organizations to adopt OKR. The content is always added monthly.
 
 ## Guides
 
