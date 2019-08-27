@@ -39,9 +39,9 @@ They should be **public**.
   - Number enable objective evaluation and create a learning process
 
 # Grading
-- Only Key Results get graded. An Objective's grade is the average of its Key Results. 
+- Only Key Results get graded. An Objective's grade is the average of its Key Results.
 - A good Key Result always enables objetive grading.
-- Objetive grading is necessary for **learning**
+- Objective grading is necessary for **learning**
 - Grading shall **never** be used for employee evaluation
 
 ### Guidelines for Grading
@@ -64,7 +64,7 @@ They should be **public**.
        - Why would you gamble your livelihood on bold goals when you can set goals you can actually meet.
 
 ## Examples
-1. You sell barbeques online. 
+1. You sell barbeques online.
    - You want to grow revenue to 1 million this quarter (**objective**)
       - Rank Top 3 in Google's Search Results for 'buy barbeque'
       - Run a 20%- discount-campaign in 2 national newspaper
