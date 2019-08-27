@@ -11,7 +11,6 @@ They should be **public**.
 
 [Credits - Weekdone](https://blog.weekdone.com/introduction-okr-objectives-key-results/?utm_source=resources.weekdone.com&utm_campaign=resources)
 
-
 ### Objectives
 - Ambitious
 - Uncomfortable
@@ -38,7 +37,7 @@ They should be **public**.
   - Expect to get to 70-80% of your challenging target.
 4. A KR must have a number.
   - Number enable objective evaluation and create a learning process
-  
+
 # Grading
 - Only Key Results get graded. An Objective's grade is the average of its Key Results. 
 - A good Key Result always enables objetive grading.
@@ -49,10 +48,10 @@ They should be **public**.
 - Use a scale from 0 to 1.
    - Getting to 70-80% of your target will result in a .7 or .8 grade
    - Grade your OKRs at the beginning of the next quarter
-   - If you constantly score a 1, your OKRs were not challenging enough. 
+   - If you constantly score a 1, your OKRs were not challenging enough.
    - You should score a .7 or .8
    - Lower grades should not be punished.
-  
+
 # Common Mistakes
 - You set too many OKRs per quarter
 - You set OKRs for a week or a month
@@ -64,13 +63,11 @@ They should be **public**.
     - There is the risk for sandbagging
        - Why would you gamble your livelihood on bold goals when you can set goals you can actually meet.
 
-
 ## Examples
 1. You sell barbeques online. 
    - You want to grow revenue to 1 million this quarter (**objective**)
       - Rank Top 3 in Google's Search Results for 'buy barbeque'
       - Run a 20%- discount-campaign in 2 national newspaper
-
 
 ## Summary
 - Objective: Tell you where to go
