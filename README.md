@@ -52,6 +52,7 @@ It is used in several companies like Google, Netflix, Zynga, LinkedIn, Twitter a
 ## Books
 
 - [Measure What Matters](https://www.whatmatters.com/book): A handbook for setting and achieving audacious goals by John Doerr.
+- [Objectives and Key Results: Driving Focus, Alignment, and Engagement with OKRs] (https://www.wiley.com/en-gb/Objectives+and+Key+Results:+Driving+Focus,+Alignment,+and+Engagement+with+OKRs-p-9781119252399) : A thoroughly readable guide to implementing OKRs that is relevant to large, corporate environments as well as digital start-ups.
 
 ## Articles
 
@@ -82,6 +83,7 @@ It is used in several companies like Google, Netflix, Zynga, LinkedIn, Twitter a
 - [What's a use case where a company uses both OKR and KPI?](http://www.quora.com/Whats-a-use-case-where-a-company-uses-both-OKR-and-KPI): How to connect OKRs and KPIs.
 - [How does the process of developing and prioritizing OKRs (objectives and key results) work at companies like Google and Zynga?](https://www.quora.com/How-does-the-process-of-developing-and-prioritizing-OKRs-objectives-and-key-results-work-at-companies-like-Google-and-Zynga): Some interesting answers about how companies like Google are prioritizing their OKRs.
 - [OKRs do not cascade](http://felipecastro.com/en/okr/okrs-not-cascade/)
+- [A journey through OKRs] (https://www.hotpmo.com/blog/a-journey-through-okr) : An introduction to OKRs and their application in portfolio project management.
 
 ## Guides
 
