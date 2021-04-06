@@ -136,6 +136,7 @@ List of software for managing your OKRs. This list was made using this Product H
 - [7Geese](http://www.producthunt.com/tech/7geese)
 - [StatusPath](http://www.producthunt.com/tech/statuspath)
 - [Kapta](http://www.producthunt.com/tech/kapta)
+- [Koan](https://www.koan.co/)
 - [SmartProgress](http://www.producthunt.com/tech/smart-progress)
 - [Strides](http://www.producthunt.com/tech/strides)
 - [Workboard](http://www.producthunt.com/tech/workboard)
