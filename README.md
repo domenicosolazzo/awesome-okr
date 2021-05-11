@@ -133,7 +133,6 @@ List of software for managing your OKRs. This list was made using this Product H
 - [BetterWorks](http://www.producthunt.com/tech/betterworks)
 - [Weekdone](http://www.producthunt.com/tech/weekdone)
 - [Gtmhub](https://gtmhub.com)
-- [TalentCove](http://www.producthunt.com/tech/cove)
 - [7Geese](http://www.producthunt.com/tech/7geese)
 - [StatusPath](http://www.producthunt.com/tech/statuspath)
 - [Kapta](http://www.producthunt.com/tech/kapta)
