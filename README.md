@@ -146,6 +146,9 @@ List of software for managing your OKRs. This list was made using this Product H
 - [Taskade](http://www.taskade.com/)
 - [ZOKRI](https://zokri.com/)
 
+## Open Source Projects
+- [BurningOkr](https://github.com/BurningOKR/BurningOKR)
+
 ## Contributing
 
 Read [this](https://github.com/domenicosolazzo/awesome-okr/blob/master/CONTRIBUTING.md) if you want to contribute to this list.
