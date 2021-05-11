@@ -142,6 +142,7 @@ List of software for managing your OKRs. This list was made using this Product H
 - [15five](http://www.15five.com/)
 - [Zugata](http://www.zugata.com/)
 - [Taskade](http://www.taskade.com/)
+- [ZOKRI](https://zokri.com/)
 
 ## Contributing
 
