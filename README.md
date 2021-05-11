@@ -82,6 +82,7 @@ It is used in several companies like Google, Netflix, Zynga, LinkedIn, Twitter a
 - [What's a use case where a company uses both OKR and KPI?](http://www.quora.com/Whats-a-use-case-where-a-company-uses-both-OKR-and-KPI): How to connect OKRs and KPIs.
 - [How does the process of developing and prioritizing OKRs (objectives and key results) work at companies like Google and Zynga?](https://www.quora.com/How-does-the-process-of-developing-and-prioritizing-OKRs-objectives-and-key-results-work-at-companies-like-Google-and-Zynga): Some interesting answers about how companies like Google are prioritizing their OKRs.
 - [OKRs do not cascade](http://felipecastro.com/en/okr/okrs-not-cascade/)
+- [Being helpful isn’t the same as being clear](https://medium.com/product-narrative/sharing-lessons-learned-in-okr-f802aff4c251): A useful note to understand the local culture when implementing OKR.
 
 ## Guides
 
@@ -132,7 +133,6 @@ List of software for managing your OKRs. This list was made using this Product H
 - [BetterWorks](http://www.producthunt.com/tech/betterworks)
 - [Weekdone](http://www.producthunt.com/tech/weekdone)
 - [Gtmhub](https://gtmhub.com)
-- [TalentCove](http://www.producthunt.com/tech/cove)
 - [7Geese](http://www.producthunt.com/tech/7geese)
 - [StatusPath](http://www.producthunt.com/tech/statuspath)
 - [Kapta](http://www.producthunt.com/tech/kapta)
@@ -141,6 +141,7 @@ List of software for managing your OKRs. This list was made using this Product H
 - [Workboard](http://www.producthunt.com/tech/workboard)
 - [15five](http://www.15five.com/)
 - [Zugata](http://www.zugata.com/)
+- [Taskade](http://www.taskade.com/)
 - [ZOKRI](https://zokri.com/)
 
 ## Contributing
