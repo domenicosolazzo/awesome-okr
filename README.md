@@ -149,6 +149,7 @@ List of software for managing your OKRs. This list was made using this Product H
 
 ## Open Source Projects
 - [BurningOkr](https://github.com/BurningOKR/BurningOKR)
+- [okr2go](https://github.com/oxisto/okr2go)
 
 ## Contributing
 
