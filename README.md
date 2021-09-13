@@ -85,7 +85,7 @@ It is used in several companies like Google, Netflix, Zynga, LinkedIn, Twitter a
 - [OKRs do not cascade](http://felipecastro.com/en/okr/okrs-not-cascade/)
 - [A journey through OKRs] (https://www.hotpmo.com/blog/a-journey-through-okr) : An introduction to OKRs and their application in portfolio project management.
 - [Being helpful isn’t the same as being clear](https://medium.com/product-narrative/sharing-lessons-learned-in-okr-f802aff4c251): A useful note to understand the local culture when implementing OKR.
-- [Learnings from implementing OKRs](https://rnjn.in/articles/learnings-about-okrs/)
+- [Learnings from implementing OKRs](https://rnjn.in/articles/learnings-about-okrs/): A great guide on implementing OKRs.
 
 ## Guides
 
@@ -127,9 +127,9 @@ These are not real examples and I am not related with the companies below.
 - [Sample Company](https://github.com/domenicosolazzo/awesome-okr/blob/master/examples/SampleCompany.md): An example of OKRs for an imaginary company.
 - [Photo Editing App](https://github.com/domenicosolazzo/awesome-okr/blob/master/examples/PhotoEditingApp.md): A case study of OKRs for an a fake company creating a photo editing mobile app and using OKRs to reach their goals.
 - [OKR Goals Examples](https://www.atiim.com/okr-goals-examples/): A comprehensive list of OKR goal examples for all kind of teams and levels.
-- [25+ Site Reliability Engineering OKR examples](https://www.cruform.com/site-reliability-engineering-okrs/)
-- [GitLab: Objectives and Key Results (OKRs)](https://about.gitlab.com/company/okrs/)
-- [Measure What Matters: Examples & Resources](https://www.whatmatters.com/get-examples/)
+- [25+ Site Reliability Engineering OKR examples](https://www.cruform.com/site-reliability-engineering-okrs/): A comprehensive list of OKRs for Site Reliability Engineering Teams.
+- [GitLab: Objectives and Key Results (OKRs)](https://about.gitlab.com/company/okrs/): A comprehensive guide and real OKRs at GitLab.
+- [Measure What Matters: Examples & Resources](https://www.whatmatters.com/get-examples/): A list of OKR examples.
 
 ## Software
 
