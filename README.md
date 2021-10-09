@@ -31,7 +31,7 @@ It is used in several companies like Google, Netflix, Zynga, LinkedIn, Twitter a
 ## Slides
 
 - [OKR: A guide](http://www.slideshare.net/mustansir78/guide-to-okr-objectives-key-results): What are OKRs and what's in it for me?
-- [The Basics of OKR](http://www.slideshare.net/HenrikJanVanderPol/how-to-outperform-anyone-else-introduction-to-okr): Nice presentation presenting basic concepts of OKR.
+- [The Basics of OKR](https://www.slideshare.net/HenrikJanVanderPol/the-basics-of-okr-googles-secret-sauce-232913072): Basic concepts of OKR
 - [Organizing and engineering Team on Asana](http://www.slideshare.net/asana/organizing-an-engineering-team-using-asana): How Asana uses Key Results in their engineering team
 - [Executioner's tale](http://www.slideshare.net/cwodtke/the-executioners-tale-34241002): The slides from the talk "Executioner's tale" by Christina Wodtke.
 - [How to implement OKRs to drive company performance](http://www.slideshare.net/7Geese/learn-how-to-implement-okrs-to-drive-company-performance): Learn how to implement the OKRs goal-setting process to drive company performance
