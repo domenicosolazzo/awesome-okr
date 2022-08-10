@@ -69,7 +69,7 @@ It is used in several companies like Google, Netflix, Zynga, LinkedIn, Twitter a
 - [OKR Mistakes](http://eleganthack.com/okr-mistakes-and-how-to-fix-them/): This is an important article that descrives the most common mistakes while writing OKRs and how to fix them.
 - [ORK Worksheet](http://eleganthack.com/an-okr-worksheet/): A great worksheet for getting started with OKRs
 - [List of companies that use OKRs](https://www.atiim.com/blog/top-companies-that-use-okrs/): A list of the top companies using OKRs
-- [How Google grades employees, and how you can use the same system at your company](http://www.businessinsider.my/google-okr-employee-grading-system-2015-10/): How Google grades employees, and how you can use the same system at your company.
+- [How Google grades employees, and how you can use the same system at your company](http://www.businessinsider.com/google-okr-employee-grading-system-2015-10/): How Google grades employees, and how you can use the same system at your company.
 - [What are OKRs?](https://www.atiim.com/okr/): Basics about what OKRs are.
 - [15 great insights from the Google OKR video](https://www.atiim.com/blog/15-great-insights-from-the-google-okr-video/): Great insights from the most famous video about OKR
 - [Full Transcription of Google OKR Video – How Google Sets Goals Using OKRs](https://www.atiim.com/google-okr-objectives-key-results-video-transcript/): The full transcript from the most famous video about OKRs
